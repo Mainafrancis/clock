@@ -3,7 +3,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
-    background: linear-gradient(to right, hsl(200, 100%, 50%), hsl(175, 100%, 50%));
+    background: url(images/art-7001777_1920.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
