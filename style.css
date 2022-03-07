@@ -4,6 +4,7 @@
 }
 body{
     background: url(images/art-7001777_1920.jpg);
+    color: blue;
     display: flex;
     justify-content: center;
     align-items: center;
